@@ -1,3 +1,4 @@
+git clone https://huggingface.co/spaces/COLONEL-HERE/LLM-Based-QA-AI-ChatBot
 # Ai-chatbot
 #For Initializing enviornemnt variables
 +from dotenv import load_dotenv 
